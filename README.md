@@ -1,4 +1,4 @@
-# Reinforcement-Learning-BootCamp
+# Stable-Baselines3-BootCamp
 
 STEP 01: Create a conda environment
 
