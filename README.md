@@ -3,7 +3,7 @@
 STEP 01: Create a conda environment
 
 ```bash
-conda create -n sb3 python=3.7 -y
+conda create -n sb3 python=3.8 -y
 ```
 
 STEP 02: Activate the conda environment
